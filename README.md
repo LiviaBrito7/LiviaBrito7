@@ -2,7 +2,7 @@
 
  ##
 
-- Atualmente estudan desenvolvimento Fullstack
+- Atualmente estudando desenvolvimento Fullstack
 - Programa Starter - Despertar.dev
  
   ##
