@@ -3,7 +3,7 @@
  ##
 
 - Atualmente estudando desenvolvimento Fullstack
-- Programa Starter - Despertar.dev
+- Programa de formação em tecnologia Despertar.dev - Sicredi
  
  ##
 
